@@ -1,0 +1,16 @@
+{
+  "name": "FirstPageWithNextJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MatheusDama/FirstPageWithNextJS.git",
+  "author": "Matheus D <55540506+MatheusDama@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
